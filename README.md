@@ -18,6 +18,8 @@ This project demonstrates basic Windows administration using PowerShell. I creat
 - PowerShell
 - Local User & Group Management
 
+## Key Commands
+
 ### Create Users
 
 ```powershell
